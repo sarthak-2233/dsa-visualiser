@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className='h-screen w-screen bg-gradient-to-br from-pink-100 via-purple-100 to-blue-100'>
 
         {/* Navbar */}
-        <div className='h-[15%] bg-gradient-to-r from-indigo-400 to-purple-500 flex items-center justify-between p-4 shadow-md'>
+        <div className='h-[15%] bg-gradient-to-r from-indigo-400 to-purple-500 flex items-center justify-between p-5 shadow-md'>
           <img src="/Images/logo.png" alt="DSA Logo" className='h-full object-contain' />
           <div className='flex gap-4 text-white font-medium text-lg'>
             <a href='https://www.google.com' target='_blank' rel="noopener noreferrer" className='hover:underline hover:text-yellow-200 transition'>Searching</a>
