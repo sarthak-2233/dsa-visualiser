@@ -1,9 +1,13 @@
 import React from 'react'
 
+import DashboardNav from './DashboardNav'
+import DashboardSidebar from './DashboardSidebar'
+
 const AdminDashboard = () => {
   return (
     <div>
-        working
+        {/*<DashboardNav/>*/}
+        <DashboardSidebar/>
     </div>
   )
 }
