@@ -19,7 +19,7 @@ const DashboardSidebar = () => {
         />
       </div>
 
-      <div className="p-7 text-2xl font-semibold flex-1 h-screen">
+      <div className="p-6 text-2xl font-semibold flex-1 h-screen">
         <h1>Home page</h1>
       </div>
     </div>
