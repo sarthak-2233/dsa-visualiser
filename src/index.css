@@ -1,5 +1,5 @@
 @import "tailwindcss";
-
+/*small device*/
 @keyframes typing {
   from {
     width: 0;
